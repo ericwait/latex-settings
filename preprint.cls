@@ -57,6 +57,7 @@
 \newcommand{\ie}[1]{\textit{i.e.} {#1}}
 \newcommand{\eg}[1]{\textit{e.g.} {#1}}
 \newcommand{\etc}[1]{\textit{etc.} {#1}}
+\newcommand{\vs}{\textit{vs.}}
 
 % Use ``\cite{NEEDED}'' to get Wikipedia-style ``citation needed'' in document
 \usepackage{ifthen}
