@@ -42,9 +42,9 @@
 \newcommand{\nth}{\ensuremath{n^\text{th}} }
 
 % Use \qst command for questions that need answering
-\newcommand{\qst}[1]{\todo[color=magenta]{#1}}
+\newcommand{\qst}[1]{\todo[inline,color=magenta]{#1}}
 % Use \lookup for items that need further research
-\newcommand{\lookup}[1]{\todo[color=green]{#1}}
+\newcommand{\lookup}[1]{\todo[inline,color=green]{#1}}
 % Use \tsk for tasks that still need to be completed
 \newcommand{\tsk}[1]{\todo[inline,color=cyan]{#1}}
 % Use \idea for ideas not ready to be in text
